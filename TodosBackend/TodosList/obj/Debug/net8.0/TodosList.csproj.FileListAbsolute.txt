@@ -1,0 +1,154 @@
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.exe
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.deps.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.runtimeconfig.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.pdb
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.AssemblyReference.cache
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfoInputs.cache
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfo.cs
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.sourcelink.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.TodosList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.build.TodosList.props
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodosList.props
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodosList.props
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\scopedcss\bundle\TodosList.styles.css
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CopyComplete
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\refint\TodosList.dll
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.pdb
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.genruntimeconfig.cache
+C:\Users\Sorin\Documents\GitHub\Projekt\Todo-lista frontend & backend\TodosBackend\TodosList\obj\Debug\net8.0\ref\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.exe
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.deps.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.runtimeconfig.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.pdb
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.AssemblyReference.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfoInputs.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfo.cs
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.TodosList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.build.TodosList.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodosList.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodosList.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\scopedcss\bundle\TodosList.styles.css
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CopyComplete
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\refint\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.pdb
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.genruntimeconfig.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontend&Backend\TodosBackend\TodosList\obj\Debug\net8.0\ref\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.exe
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.deps.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.runtimeconfig.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.pdb
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.AssemblyReference.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfoInputs.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfo.cs
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.TodosList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.build.TodosList.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodosList.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodosList.props
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\scopedcss\bundle\TodosList.styles.css
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CopyComplete
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\refint\TodosList.dll
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.pdb
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.genruntimeconfig.cache
+C:\Users\Sorin\Desktop\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\ref\TodosList.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\appsettings.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.exe
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.deps.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.runtimeconfig.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\TodosList.pdb
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.AssemblyReference.cache
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfoInputs.cache
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.AssemblyInfo.cs
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CoreCompileInputs.cache
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.sourcelink.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.TodosList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.build.TodosList.props
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodosList.props
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodosList.props
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\scopedcss\bundle\TodosList.styles.css
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.csproj.CopyComplete
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\refint\TodosList.dll
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.pdb
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\TodosList.genruntimeconfig.cache
+C:\Users\SorinG.INFOSOLUTIONS\OneDrive - InfoSolutions Sverige AB\Skrivbordet\C\C Curs Suedez\Lektion 2\TodoListaFrontendBackend\TodosBackend\TodosList\obj\Debug\net8.0\ref\TodosList.dll
